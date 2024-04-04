@@ -1,5 +1,8 @@
+# The Following libraries are needed to run the project
 pandas
 matplotlib
 seaborn
 sklearn
 xgboost
+joblib
+scipy
